@@ -1,0 +1,63 @@
+
+.navbar-custom {
+  margin-bottom: 0;
+  background-color: #23477d;
+  font-family: Helvetica, sans-serif;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: #23477d !important;
+    background-color: white;
+}
+
+.title{
+  color: #23477d;
+  font-family: Helvetica, sans-serif;
+}
+
+.container-section {
+  padding: 60px 60px 50px 30px;
+}
+
+.continer-footer {
+  padding: 10px 0px;
+}
+
+.hobbies-icon {
+  font-size: 40px;
+}
+
+.hobbies-text:hover {
+  cursor: pointer;
+}
+
+.contact-icon {
+  font-size: 25px;
+}
+
+.top-div {
+  padding-top: 100px;
+}
+
+.bg-grey {
+  background-color: #f6f6f6;
+}
+
+.link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.exp_entry {
+  margin-bottom: 0px;
+}
+
+.link:hover {
+    color: inherit; 
+    text-decoration: none; 
+    cursor: pointer;  
+}
