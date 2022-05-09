@@ -53,13 +53,16 @@
 }
 
 .exp_entry {
-  margin-bottom: 0px;
+  margin-bottom: 5px;
 }
 
-.exp_entry {
-  margin-left: 15px;
+.exp_desc {
+  margin-left: 20px;
 }
-class=
+
+.exp_resp {
+  margin-bottom: 0px;
+}
 
 .link:hover {
     color: inherit; 
